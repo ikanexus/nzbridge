@@ -1,2 +1,2 @@
-# tuneznab
-A Newznab Indexer and Black Hole downloader for Lidarr
+# nzbridge
+A Newznab Indexer bridge and Black Hole downloader for *arr apps for files not on NZB
